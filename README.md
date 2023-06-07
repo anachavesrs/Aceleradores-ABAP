@@ -2,7 +2,7 @@
 Códigos ABAP para acelerar o desenvolvimneto.
 Esse projeto tem o intuito de apoiar a comunidade Open Source ABAP
 
-Para importar os programas para o ambiente ABAP, basta seguir os passos:
+Para importar o programa para o ambiente ABAP, basta seguir os passos:
 
 1 - Acesssar o seu ambiente ABAP
 
@@ -25,3 +25,7 @@ Para importar os programas para o ambiente ABAP, basta seguir os passos:
 10 - Os objetos de desenvolvimeto do repositório Aceleradores-ABAP aparecerão na tela, basta dar um Pull e ativar os objetos.
 
 11 - Os programas estarão dentro do seu ambiente ABAP.
+
+12 - A instalação do AbapGit deve ser feita somente uma vez por ambiente.
+
+13 - Os repositórios podem ser clonados a vontade.
