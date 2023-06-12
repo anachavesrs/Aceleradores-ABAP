@@ -1,12 +1,13 @@
 # Aceleradores-ABAP
 Códigos ABAP para acelerar o desenvolvimneto.
-Esse projeto tem o intuito de apoiar a comunidade Open Source ABAP
+
+Nesse repositório temos um modelo pronto para um relatório ALV
 
 Para importar o programa para o ambiente ABAP, basta seguir os passos:
 
 1 - Acesssar o seu ambiente ABAP
 
-2 - Criar um novo report com o nome: ZABAPGIT_STANDALONE
+2 - Criar um novo report com o nome: ZABAPGIT_STANDALONE (OBS: Se vc já realizou esse processo 1 vez em seu ambiente, desconsidere os passos 3, 4 e 5)
 
 3 - Abrir o código desse link https://raw.githubusercontent.com/abapGit/build/main/zabapgit_standalone.prog.abap e copiar
 
