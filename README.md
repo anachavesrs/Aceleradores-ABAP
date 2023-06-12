@@ -1,32 +1,5 @@
-# Aceleradores-ABAP
-Códigos ABAP para acelerar o desenvolvimneto.
+# Aceleradores-ABAP ALV OO
+## Documentação técnica do projeto.
 
-Nesse repositório temos um modelo pronto para um relatório ALV
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
 
-Para importar o programa para o ambiente ABAP, basta seguir os passos:
-
-1 - Acesssar o seu ambiente ABAP
-
-2 - Criar um novo report com o nome: ZABAPGIT_STANDALONE (OBS: Se vc já realizou esse processo 1 vez em seu ambiente, desconsidere os passos 3, 4 e 5)
-
-3 - Abrir o código desse link https://raw.githubusercontent.com/abapGit/build/main/zabapgit_standalone.prog.abap e copiar
-
-4 - Colar no seu programa e ativar
-
-5 - A interface do abapGit será apresentada ao executar o ZABAPGIT_STANDALONE
-
-6 - Criar um repositório online ou offline. Esse tutorial é para repositórios offline.
-
-7 - Criar um pacote e salvar
-
-8 - No repositório do GitHub Aceleradores-ABAP, clonar o repo fazendo o download zip.
-
-9 - Na interface do AbapGit, ir em import, selecionar o arquivo zip baixado e importar.
-
-10 - Os objetos de desenvolvimeto do repositório Aceleradores-ABAP aparecerão na tela, basta dar um Pull e ativar os objetos.
-
-11 - Os programas estarão dentro do seu ambiente ABAP.
-
-12 - A instalação do AbapGit deve ser feita somente uma vez por ambiente.
-
-13 - Os repositórios podem ser clonados a vontade.
